@@ -1,1 +1,4 @@
-console.log(davidganteng)
+console.log("davidganteng");
+
+const add = (a, b) => a + b;
+console.log(add(1, 2));
