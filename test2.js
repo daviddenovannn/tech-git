@@ -1,1 +1,0 @@
-console.log("ini file tes yang kedua yah");
