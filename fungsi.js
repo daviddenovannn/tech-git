@@ -8,3 +8,7 @@ console.log(substract(5, 2));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(5, 2));
+
+
+const divide = (a, b) => a / b;
+console.log(divide(2, 2));
